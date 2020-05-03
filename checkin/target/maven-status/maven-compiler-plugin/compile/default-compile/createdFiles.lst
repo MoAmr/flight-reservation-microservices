@@ -1,0 +1,6 @@
+com/brownfield/pss/checkin/repository/CheckinRepository.class
+com/brownfield/pss/checkin/component/CheckinComponent.class
+com/brownfield/pss/checkin/component/Sender.class
+com/brownfield/pss/checkin/Application.class
+com/brownfield/pss/checkin/controller/CheckInController.class
+com/brownfield/pss/checkin/entity/CheckInRecord.class

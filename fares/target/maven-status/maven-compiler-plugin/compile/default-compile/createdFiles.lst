@@ -1,0 +1,5 @@
+com/brownfield/pss/fares/component/FaresComponent.class
+com/brownfield/pss/fares/controller/FaresController.class
+com/brownfield/pss/fares/Application.class
+com/brownfield/pss/fares/repository/FaresRepository.class
+com/brownfield/pss/fares/entity/Fare.class

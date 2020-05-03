@@ -1,0 +1,9 @@
+com/brownfield/pss/search/entity/Flight.class
+com/brownfield/pss/search/repository/FlightRepository.class
+com/brownfield/pss/search/Application.class
+com/brownfield/pss/search/component/Receiver.class
+com/brownfield/pss/search/component/SearchComponent.class
+com/brownfield/pss/search/entity/Inventory.class
+com/brownfield/pss/search/entity/Fares.class
+com/brownfield/pss/search/controller/SearchRestController.class
+com/brownfield/pss/search/controller/SearchQuery.class

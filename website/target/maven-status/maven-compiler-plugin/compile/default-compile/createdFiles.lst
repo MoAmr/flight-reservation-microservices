@@ -1,0 +1,9 @@
+com/brownfield/pss/client/Passenger.class
+com/brownfield/pss/client/UIData.class
+com/brownfield/pss/client/Application.class
+com/brownfield/pss/client/BookingRecord.class
+com/brownfield/pss/client/BrownFieldSiteController.class
+com/brownfield/pss/client/SearchQuery.class
+com/brownfield/pss/client/CheckInRecord.class
+com/brownfield/pss/client/Flight.class
+com/brownfield/pss/client/Fares.class
