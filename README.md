@@ -58,7 +58,7 @@ Documents directory on your pc.
 
 --------------------------------------------------------------------------
 
-#Setup Notes:
+# Setup Notes:
 
 You have to initialize this directory as empty git repository using the command:
 
@@ -78,7 +78,7 @@ Then you must commit the changes you have made to the repository through the com
 
 --------------------------------------------------------------------------
 
-#RabbitMq Server Running Notes:
+# RabbitMq Server Running Notes:
 
 start rabbitmq-server after installing it on your machine
 
@@ -100,7 +100,7 @@ How to stop rabbitmq-server on Mac terminal?
 
 --------------------------------------------------------------------------
 
-#Microservices (Modules) Build and Running Notes:
+# Microservices (Modules) Build and Running Notes:
 
 <h4>You have to build and run the microservices in the following order:</h4>
 You can either run them using terminal or as spring boot application from your IDE.
@@ -140,7 +140,7 @@ You can either run them using terminal or as spring boot application from your I
 
 --------------------------------------------------------------------------
 
-#Eureka Server Discovery's Port:
+# Eureka Server Discovery's Port:
 
 http://localhost:8761
 
