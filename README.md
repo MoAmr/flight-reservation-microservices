@@ -145,3 +145,34 @@ You can either run them using terminal or as spring boot application from your I
 http://localhost:8761
 
 --------------------------------------------------------------------------
+
+# Elasticsearch running command
+
+Navigate to elasticsearch directory after downloading 
+and extracting it, then run the following command:
+directory and run the following command:
+
+<h5>./elasticsearch-7.6.2/bin/elasticsearch</h5>
+
+--------------------------------------------------------------------------
+
+# Kibana running command
+
+Navigate to kibana directory after downloading 
+and extracting it, then run the following command:
+
+<h5>./kibana-7.6.2-darwin-x86_64/bin/kibana</h5>
+
+Note: Kibana port: <h4>http://localhost:5601</h4>
+
+--------------------------------------------------------------------------
+
+# Logstash running command
+
+Navigate to kibana directory after downloading 
+and extracting it, then run the following command
+and pointing to logstash.conf file's path on your pc
+
+Example:
+
+<h5>./logstash-7.6.2/bin/logstash -f /Users/mohammed/Desktop/logstash.conf</h5>
