@@ -21,5 +21,6 @@
     <module>book-apigateway</module>
     <module>checkin-apigateway</module>
     <module>fares-apigateway</module>
+    <module>hystrixdashboard</module>
   </modules>
 </project>
